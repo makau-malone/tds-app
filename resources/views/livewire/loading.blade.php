@@ -1,0 +1,1 @@
+<div wire:loading class="d-flex loading-div modal"><i class="fas fa-circle-notch m-auto text-white animate-spin"></i></div>
